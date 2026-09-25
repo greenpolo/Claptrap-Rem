@@ -13,11 +13,6 @@ Claptrap from Borderlands, replacing Rem in [Deadlock](https://store.steampowere
 - Mini-Claptraps in place of Rem's helpers
 - Custom hero-select scene, hero cards and portraits
 
-| | | |
-|---|---|---|
-| ![Run](media/run_loose_arms.webp) | ![Gun](media/globber_hold.webp) | ![Melee](media/melee_heavy.webp) |
-| ![Clap-in-the-Box](media/clap_in_the_box.webp) | ![Mini-Claptraps](media/miniontrap_run.webp) | ![Zipline](media/zipline.webp) |
-
 ### Abilities
 
 | Rem | Claptrap |
