@@ -8,14 +8,14 @@ Claptrap from Borderlands, replacing Rem in [Deadlock](https://store.steampowere
 
 - New model and animations, built for a robot on a wheel
 - The Globber pistol from *The Pre-Sequel*, with its own sounds
-- Abilities themed on Fragtrap's VaultHunter.EXE, with names and icons from *The Pre-Sequel*
+- Abilities reskinned as Fragtrap's VaultHunter.EXE modes, with icons from *The Pre-Sequel*
 - Over 1,200 Claptrap voice lines
 - Mini-Claptraps in place of Rem's helpers
 - Custom hero-select scene, hero cards and portraits
 
 ### Abilities
 
-| Rem | Claptrap |
+| Rem ability | Claptrap theme |
 |---|---|
 | Pillow Toss | Clap-in-the-Box |
 | Tag Along | HIGH FIVES GUYS |
